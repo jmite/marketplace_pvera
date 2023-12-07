@@ -1,5 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import './ProductList.css';
 
 const products = [
   { id: 1, name: 'Producto 1', price: 20 },
